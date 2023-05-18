@@ -1,4 +1,4 @@
-# Hi, guys! ![WavingHelloGIF](https://github.com/Semanur-Ucdag/Semanur-Ucdag/assets/103859993/a62a0b81-d5ae-4e39-80b8-e72549c33650)
+# Hi, guys!  <img src="![WavingHelloGIF](https://github.com/Semanur-Ucdag/Semanur-Ucdag/assets/103859993/a62a0b81-d5ae-4e39-80b8-e72549c33650)" alt="Emoji" style="width: 100px; height: auto;"> 
 
 
 
