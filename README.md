@@ -19,6 +19,6 @@
 🎗️🪪 Database: MsSql
 
 
-🎗️ My LinkedIn account : https://www.linkedin.com/in/semanur-%C3%BC-05851b229 
+🎗️ My LinkedIn account : https://www.linkedin.com/in/semanur-ucdag
 
 🎗️How to reach me (my email account) : ucdagsemanur@gmail.com 
